@@ -1,1 +1,1 @@
-https://activity-department-app.vercel.app
+https://flying-teal-udgdji2.tmp.now/
